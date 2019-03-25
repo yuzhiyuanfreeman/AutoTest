@@ -6,3 +6,4 @@
 这是mergedemo分支上添加的内容
 >>>>>>> mergedemo
 version1
+version2
